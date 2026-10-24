@@ -7,6 +7,7 @@ A Mac terminal script that converts images to the format you pick, using the bui
 ```bash
 ./"Image Converter.sh"
 ```
+Or just download the Image Covnverter.sh file.
 
 It asks you:
 
